@@ -4,6 +4,6 @@ A corss-platform app in which all your friends can sign up and request the items
 
 # Technologies used
 
-flutter
-Google authentification
-Google firestore
+## flutter
+## Google authentification
+## Google firestore
