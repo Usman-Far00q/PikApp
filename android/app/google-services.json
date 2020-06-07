@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585827439523",
+    "firebase_url": "https://pikapp-4f4eb.firebaseio.com",
+    "project_id": "pikapp-4f4eb",
+    "storage_bucket": "pikapp-4f4eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585827439523:android:b591d900a4660c47c28016",
+        "android_client_info": {
+          "package_name": "pic23kapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585827439523-t7b37he7278cgs84j9m8f718ltu2o399.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSalLFdpSAyurmvGBpwT47c9VpoluYFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585827439523-t7b37he7278cgs84j9m8f718ltu2o399.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
